@@ -4,16 +4,16 @@
 
 An excercise in emploratory data analysis. The goal was to visualize and describe tim series data of login counts inorder to divulge any patters of demand.
 
-The notebook can be found here.
+The notebook can be found [here](https://github.com/srtandon/Springboard_coursework/blob/master/Unit_27/Ultimate%20Challenge/Ultimate%20Challenge%20--%20Part%201.ipynb).
 
 
 ## Part 2
 
-This is an excercise in experimental design. The notebook can be found here.
+This is an excercise in experimental design. The notebook can be found [here](https://github.com/srtandon/Springboard_coursework/blob/master/Unit_27/Ultimate%20Challenge/Ultimate%20Challenge%20--%20Part2.ipynb).
 
 ## Part 3
 
-This is an excercise in all things data science. 
+This is an excercise in all things data science. [notebook](https://github.com/srtandon/Springboard_coursework/blob/master/Unit_27/Ultimate%20Challenge/Ultimate%20Challenge%20--%20Part%203.ipynb)
 
 Ultimate is interested in predicting rider retention. To help explore this question, we have provided a sample dataset of a cohort of users who signed up for an Ultimate account in January 2014. The data was pulled several months later; we consider a user retained if they were “active” (i.e. took a trip) in the preceding 30 days.
 We would like you to use this data set to help understand what factors are the best predictors for retention, and offer suggestions to operationalize those insights to help Ultimate.
